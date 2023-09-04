@@ -1,1 +1,4 @@
-print("Hello World")
+def sample_func():
+    x=24
+
+print(sample_func())
