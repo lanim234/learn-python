@@ -17,4 +17,4 @@ elif x > 0:
 
 fruits = ["apple", "banana","orange"]
 for i in fruits:
-print("Fruits Name = " = i)
+print("Fruits Name = " + i)
