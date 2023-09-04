@@ -21,6 +21,6 @@ for i in fruits:
 
 
 x = 10
-while x > 0:
+while x > 6:
     print("x is "+ str(x))
     x = x - 1
