@@ -45,5 +45,5 @@ def lan():
 x=(lan())
 
 football =["Manchester United", 'Arsenal', "Chelsea"]
-for in i football:
+for i in football:
     print("football Name =" + i)
