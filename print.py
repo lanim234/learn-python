@@ -47,3 +47,7 @@ x=(lan())
 football =["Manchester United", 'Arsenal', "Chelsea"]
 for i in football:
     print("football Name = " + i)
+
+Components =["Frontend", "User", "Redis","MongoDb", "Shipping", "Rabbitmq","Cart","Payment", "catalogue"]
+for i in Components:
+    print("Components Name = " + i)
