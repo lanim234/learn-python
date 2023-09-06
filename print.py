@@ -39,3 +39,7 @@ def journey():
     x= ("Megbele")
     return x
 print(journey())
+
+def lan():
+  print("what is that?")
+x=(lan())
