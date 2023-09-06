@@ -1,11 +1,6 @@
 def sample_func():
-    x=35
+    x='what's your name'
     return x
-
-def Football():
-    print("Best sports in the world")
-    x = Football()
-
 
 
 print(sample_func())
