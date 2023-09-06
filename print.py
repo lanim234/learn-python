@@ -1,5 +1,5 @@
 def sample_func():
-    x=24
+    x=35
     return x
 
 print(sample_func())
