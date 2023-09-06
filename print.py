@@ -43,3 +43,7 @@ print(journey())
 def lan():
   print("what is that?")
 x=(lan())
+
+football =["Manchester United", 'Arsenal', "Chelsea"]
+for in i football:
+    print("football Name =" + i)
