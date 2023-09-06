@@ -29,3 +29,8 @@ def Manchester_united():
     x= ("Gary Neville", "Roy Keane", 100)
     return x
 print(Manchester_united())
+
+
+def sample_func():
+  print("fuck up the zone")
+x = sample_func()
