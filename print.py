@@ -34,3 +34,8 @@ print(Manchester_united())
 def sample_func():
   print("fuck up the zone")
 x = sample_func()
+
+def journey():
+    x= ("Megbele")
+    return x
+print(journey())
