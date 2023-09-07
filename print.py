@@ -55,3 +55,7 @@ for i in Components:
 def girls():
     print("laura", "Betty", "Beyonce", 29)
 x=(girls())
+
+components =["Ben", "Mark", "Micheal", True]
+for i in components:
+    print(i)
