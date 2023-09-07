@@ -59,3 +59,8 @@ x=(girls())
 components =["Ben", "Mark", "Micheal", True]
 for i in components:
     print(i)
+
+def network():
+    x=("Lan", "Port", "Firewall")
+    return x
+print(network())
