@@ -51,3 +51,7 @@ for i in football:
 Components =["Frontend", "User", "Redis","MongoDb", "Shipping", "Rabbitmq","Cart","Payment", "catalogue"]
 for i in Components:
     print(i)
+
+def girls():
+    print("laura", "Betty", "Beyonce", 29)
+x=(girls())
