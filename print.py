@@ -72,10 +72,10 @@ while x > 12:
     x = x - 2
 
 
-    x  = 16
-    while x < 28:
-        print(str(x))
-        x = x + 2
+ #   x  = 16
+ #   while x < 28:
+ #       print(str(x))
+ #       x = x + 2
 
 def Artiste():
     print("BackStreet Boys", "Beyonce", "Blue", "Usher", True)
