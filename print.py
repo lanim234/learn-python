@@ -70,3 +70,9 @@ x = 30
 while x > 12:
     print(str(x))
     x = x - 2
+
+
+    x  = 16
+    while x < 28:
+        print(str(x))
+        x = x + 2
