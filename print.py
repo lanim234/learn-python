@@ -64,3 +64,9 @@ def network():
     x=("Lan", "Port", "Firewall")
     return x
 print(network())
+
+
+x = 30
+while x > 12:
+    print(str(x))
+    x = x - 2
