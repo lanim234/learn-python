@@ -77,3 +77,9 @@ while x > 12:
 def Artiste():
     print("BackStreet Boys", "Beyonce", "Blue", "Usher", True)
 x=Artiste()
+
+
+
+def Team():
+    print("ManchesterUnited", "Arsenal", "Wolves", "Everton")
+x = Team()
