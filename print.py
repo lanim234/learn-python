@@ -96,5 +96,5 @@ while x > 10:
     x = x - 2
 
 def Mavins():
-    print("Ayra Starr", "Rema", "Bayani", "Boy spyce" )
-    x=Mavins()
+    print("Ayra Starr", "Rema", "Bayani", "Boy spyce")
+x=Mavins()
