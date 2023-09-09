@@ -90,7 +90,7 @@ def Manchy():
 print(Manchy())
 
 
-X= 14
+X = 14
 while x < 20:
     print(str(x))
     x = x - 1
