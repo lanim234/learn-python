@@ -94,3 +94,7 @@ while x > 18:
     print(str(x))
     x = x - 2
 
+x = 16
+while x < 10:
+    print(str(x))
+    x = x - 1
