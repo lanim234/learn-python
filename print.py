@@ -89,10 +89,6 @@ def Manchy():
     return x
 print(Manchy())
 
-x = 30
-while x > 18:
-    print(str(x))
-    x = x - 2
 
 x = 16
 while x > 10:
