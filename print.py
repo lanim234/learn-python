@@ -93,4 +93,4 @@ print(Manchy())
 x = 16
 while x > 10:
     print(str(x))
-    x = x - 1
+    x = x - 2
