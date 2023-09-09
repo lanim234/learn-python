@@ -91,6 +91,6 @@ print(Manchy())
 
 
 X= 13
-while x > 20:
+while x < 20:
     print(str(x))
     x = x + 2
