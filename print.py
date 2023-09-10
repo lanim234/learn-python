@@ -110,5 +110,5 @@ print(name)
 
 
 
-pan = os.getenv("PAN", default="shan")
+pan = os.getenv("pan", default="shan")
 print(pan)
