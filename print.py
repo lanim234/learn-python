@@ -108,7 +108,8 @@ import os
 name=os.ctermid()
 print(name)
 
-import os.environ["Home"]
+
+name = os.environ["Home"]
 print(name)
 
 
