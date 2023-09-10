@@ -98,3 +98,7 @@ while x > 10:
 def Mavins():
     print("Ayra Starr", "Rema", "Bayani", "Boy spyce")
 x=Mavins()
+
+components = ["Dprince", "Donjazzy", "Tiwa Savage", "WandeCoal"]
+for i components:
+    print(i)
