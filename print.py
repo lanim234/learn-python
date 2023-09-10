@@ -110,5 +110,5 @@ print(name)
 
 
 
-home1 = os.getenv("HOME1", default="/")
+home1 = os.getenv("HOME1", default="home")
 print(home1)
