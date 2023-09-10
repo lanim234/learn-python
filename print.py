@@ -105,5 +105,5 @@ for i in components:
 
 import os
 
-os.ctermid()
+name=os.ctermid()
 print(name)
