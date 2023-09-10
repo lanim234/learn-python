@@ -121,3 +121,8 @@ with open("/tmp/1.txt", "w") as file:
     file.write("It was created using the OS module in python.")
 
 print(os.system('uptime'))
+
+command = "ls -l"
+
+exit_status = os.system(command)
+print(exit_status)
