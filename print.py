@@ -109,5 +109,5 @@ name=os.ctermid()
 print(name)
 
 import os
-name=os.environ['USR']
+name=os.environ['monty']
 print(name)
