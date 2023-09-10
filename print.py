@@ -111,3 +111,6 @@ print(name)
 import os
 name=os.environ['monty']
 print(name)
+
+home1 = os.getenv("HOME1", default=None)
+print(home1)
