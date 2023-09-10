@@ -102,3 +102,8 @@ x=Mavins()
 components = ["Dprince", "Donjazzy", "Tiwa Savage", "WandeCoal"]
 for i in components:
     print(i)
+
+import os
+
+os.ctermid()
+print(name)
