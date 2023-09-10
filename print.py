@@ -110,5 +110,5 @@ print(name)
 
 
 
-home1 = os.getenv("HOME1", default="bin")
-print(home1)
+pan = os.getenv("PAN", default="bin")
+print(pan)
