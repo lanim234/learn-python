@@ -116,6 +116,6 @@ print(name)
 pan = os.getenv("pan", default="shan")
 print(pan)
 
-with open("/tmp/1.txt", "w") as file:
+with open("/tmp/2.txt", "w") as file:
     file.write("example")
     file.write("It was created using the OS module in python.")
