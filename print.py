@@ -110,5 +110,5 @@ print(name)
 
 
 
-home1 = os.getenv("HOME1", default=None)
+home1 = os.getenv("HOME1", default=lanim)
 print(home1)
