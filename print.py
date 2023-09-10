@@ -109,5 +109,5 @@ name=os.ctermid()
 print(name)
 
 import os
-name=os.environ['TMP']
+name=os.environ['USR']
 print(name)
