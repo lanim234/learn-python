@@ -100,5 +100,5 @@ def Mavins():
 x=Mavins()
 
 components = ["Dprince", "Donjazzy", "Tiwa Savage", "WandeCoal"]
-for i components:
+for i in components:
     print(i)
