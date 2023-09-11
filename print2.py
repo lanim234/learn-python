@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.run(args: "ls", "-l")
+subprocess.run(["ls", "-l"])
