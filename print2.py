@@ -2,7 +2,7 @@ import threading
 import subprocess
 
 def instance_create(node):
-    tagName = "'ResourceType=instance, Tags=[{Key=Name, Value=" = + node "}]'"
+    tagName = "'ResourceType=instance, Tags=[{Key=Name,Value= " = + node "}]'"
     print(tagName)
     out = subprocess.run(
         args: ["aws", "ec2", "run-instances", "--image-id", "ami-", "--instance-type", "t3.micro"]
