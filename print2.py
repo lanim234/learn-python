@@ -1,4 +1,4 @@
 import subprocess
 
-proc = subprocess.run( args:["ls", "-l"], stdout=None)
+proc = subprocess.run(["ls", "-l"])
 
