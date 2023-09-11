@@ -1,6 +1,6 @@
-import sys
+#import sys
 
-print(sys.argv[0])
+#print(sys.argv[0])
 
 
 try:
