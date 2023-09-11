@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.run(["ls", "-l", "/dev/null"], capture_output=True)
+proc = subprocess.run(args: ["ls", "-l"],capture_output=True)
