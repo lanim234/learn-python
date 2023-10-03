@@ -1,5 +1,5 @@
 def sample_func():
-    x= ("what's your name man")
+    x= ("what's your name manns")
     return x
 print(sample_func())
 
