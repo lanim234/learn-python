@@ -1,4 +1,4 @@
 import os
 
-name = os.environ["Home"]
+name = os.environ["HOME"]
 print(name)
