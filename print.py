@@ -22,7 +22,7 @@ for i in fruits:
 
 x = 10
 while x < 15:
-    print("x is "+ str(x))
+    print("lanim is "+ str(x))
     x = x + 1
 
 def Manchester_united():
