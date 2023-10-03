@@ -1,7 +1,7 @@
 def sample_func():
     x=("what's your name mans")
     return x
-print(x)
+print(sample_func())
 
 
 x =10
