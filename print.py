@@ -4,18 +4,18 @@ def sample_func():
 print(sample_func())
 
 
-x =10
-if x == 8:
-    print("x is 10")
+x =12
+if x == 12:
+    print("x is 12")
 else:
-    print("x is not 10")
+    print("x is greater than 10")
 
-if x == 0:
-   print("x is 0")
-elif x > 0:
-     print("x is greater than 0")
+if x == 10:
+   print("x is 10")
+elif x > 8:
+     print("x is greater than 8")
 
-fruits = ["apple", "banana","orange"]
+fruits = ["apple", "banana","orange","pineapple",'strawberry']
 for i in fruits:
     print("Fruit Name = " + i)
 
