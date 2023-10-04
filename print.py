@@ -5,8 +5,8 @@ print(sample_func())
 
 
 x =10
-if x == 8:
-    print("x is 10")
+if x == 12:
+    print("x is 12")
 else:
     print("x is not 10")
 
