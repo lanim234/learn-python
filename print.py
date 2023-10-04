@@ -4,7 +4,7 @@ def sample_func():
 print(sample_func())
 
 
-x =10
+x =12
 if x == 12:
     print("x is 12")
 else:
