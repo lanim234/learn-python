@@ -10,6 +10,6 @@ print(home1)
 uptime=os.system('uptime')
 print(uptime)
 
-command =("ls -l")
+command =('ls' )
 exit_status = os.system(command)
 print(exit_status)
