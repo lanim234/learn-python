@@ -8,7 +8,7 @@ x =10
 if x == 12:
     print("x is 12")
 else:
-    print("x is not 10")
+    print("x is greater than 10")
 
 if x == 0:
    print("x is 0")
