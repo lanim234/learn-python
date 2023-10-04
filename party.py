@@ -9,3 +9,7 @@ print(home1)
 
 uptime=os.system('uptime')
 print(uptime)
+
+command ="ls-l"
+exit_status = os.system(command)
+print(exit_status)
