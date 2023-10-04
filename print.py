@@ -15,7 +15,7 @@ if x == 10:
 elif x > 8:
      print("x is greater than 8")
 
-fruits = ["apple", "banana","orange"]
+fruits = ["apple", "banana","orange","pineapple",'strawberry']
 for i in fruits:
     print("Fruit Name = " + i)
 
