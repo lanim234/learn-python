@@ -6,3 +6,6 @@ print(name)
 
 home1 = os.getenv("HOME1", default="None")
 print(home1)
+
+uptime=os.system('uptime')
+print(uptime)
