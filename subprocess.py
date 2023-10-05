@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.call(["mkdir", "laslas"])
+subprocess.check_call (["mkdir", "laslas"])
