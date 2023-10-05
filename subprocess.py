@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.check_call (["mkdir", "laslas"])
+subprocess.run (["ls", "-l"])
